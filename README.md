@@ -2,6 +2,7 @@
 
 ## ℹ️ Sobre o projeto 
 Projeto foi criado para armazenar os exercícios feitos em JavaScript.
+
 Foi estudado:
 
 - Algoritmos
